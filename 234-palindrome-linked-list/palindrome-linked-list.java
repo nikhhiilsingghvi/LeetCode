@@ -10,13 +10,17 @@ class Solution {
             fast = fast.next.next;
         }
 
-        ListNode secondHalf = reverse(slow);
-        ListNode firstHalf = head;
+        ListNode newHead = reverse(slow);
+        ListNode first = head;
+        ListNode second=newHead;
 
-        while (secondHalf != null) {
-            if (firstHalf.val != secondHalf.val) return false;
-            firstHalf = firstHalf.next;
-            secondHalf = secondHalf.next;
+        while (second != null) {
+            if (first.val != second.val){
+                reverse(newHead);
+                return false;
+            }
+            first = first.next;
+            second = second.next;
         }
 
         return true;
