@@ -10,24 +10,54 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        ListNode temp=head;
+        if(head==null || head.next==null) return head;
 
-        while(temp!=null){
-            arr.add(temp.val);
-            temp=temp.next;
+        ListNode middle=findMiddle(head);
+        ListNode leftHead=head;
+        ListNode rightHead=middle.next;
+
+        middle.next=null;
+
+        leftHead=sortList(leftHead);
+        rightHead=sortList(rightHead);
+        
+        return mergeTwoLists(leftHead,rightHead);
+    }
+
+    public ListNode findMiddle(ListNode head){
+        ListNode slow=head;
+        ListNode fast = head.next;
+
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        return slow;
+    }
+
+
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode t1=list1;
+        ListNode t2=list2;
+        ListNode dNode= new ListNode(-1);
+        ListNode temp=dNode;
+
+        while(t1!=null && t2!=null){
+            if(t1.val<t2.val){
+                temp.next=t1;
+                temp=t1;
+                t1=t1.next;
+            }
+            else{
+                temp.next=t2;
+                temp=t2;
+                t2=t2.next;
+            }
         }
 
-        Collections.sort(arr);
+        if(t1!=null) temp.next=t1;
+        else temp.next=t2;
 
-        int i=0;
-        temp=head;
-
-        while(temp!=null){
-            temp.val=arr.get(i);
-            i++;
-            temp=temp.next;
-        }
-        return head;
+        return dNode.next;
     }
 }
