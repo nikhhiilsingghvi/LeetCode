@@ -11,22 +11,41 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        HashMap<ListNode,Integer> map=new HashMap<>();
-        ListNode temp=headA;
-    
-        if(headA==null || headB==null) return null;
+        ListNode t1=headA;
+        ListNode t2=headB;
 
-        while(temp!=null){
-            map.put(temp,1);
-            temp=temp.next;
+        int N1=0;
+        int N2=0;
+
+        while(t1!=null){
+            N1++;
+            t1=t1.next;
         }
 
-        temp=headB;
-
-        while(temp!=null){
-            if(map.containsKey(temp)) return temp;;
-            temp=temp.next;
+        while(t2!=null){
+            N2++;
+            t2=t2.next;
         }
-        return null;
+
+        if(N1 < N2){
+            return collisionPoint(headA,headB,N2-N1);
+        }
+        else{
+            return collisionPoint(headB,headA,N1-N2);
+        }   
+    }
+
+
+    public ListNode collisionPoint(ListNode t1,ListNode t2,int d){
+        while(d!=0){
+            d--;
+            t2=t2.next;
+        }
+
+        while(t1!=t2){
+            t1=t1.next;
+            t2=t2.next;
+        }
+        return t1;
     }
 }
