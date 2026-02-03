@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhiljainnnn/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/nikhiljainnnn/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nikhiljainnnn/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -118,6 +119,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nikhiljainnnn/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
 | [0461-hamming-distance](https://github.com/nikhiljainnnn/LeetCode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nikhiljainnnn/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
