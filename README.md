@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhiljainnnn/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/nikhiljainnnn/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/nikhiljainnnn/LeetCode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/nikhiljainnnn/LeetCode/tree/master/0204-count-primes) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/nikhiljainnnn/LeetCode/tree/master/1922-count-good-numbers) |
 ## Greedy
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhiljainnnn/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/nikhiljainnnn/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
+| [0204-count-primes](https://github.com/nikhiljainnnn/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nikhiljainnnn/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhiljainnnn/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhiljainnnn/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
