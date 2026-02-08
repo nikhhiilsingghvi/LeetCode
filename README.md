@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/nikhiljainnnn/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/nikhiljainnnn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1901-find-a-peak-element-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nikhiljainnnn/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhiljainnnn/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/nikhiljainnnn/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/nikhiljainnnn/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nikhiljainnnn/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhiljainnnn/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nikhiljainnnn/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/nikhiljainnnn/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhiljainnnn/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhiljainnnn/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nikhiljainnnn/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
