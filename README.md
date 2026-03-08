@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhiljainnnn/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nikhiljainnnn/LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nikhiljainnnn/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/nikhiljainnnn/LeetCode/tree/master/0402-remove-k-digits) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhiljainnnn/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
 ## Enumeration
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhiljainnnn/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikhiljainnnn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikhiljainnnn/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/nikhiljainnnn/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
