@@ -1,12 +1,12 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         Arrays.sort(candidates);
-        HashSet<List<Integer>> ans=new HashSet<>();
+        List<List<Integer>> ans=new ArrayList<>();
         fnc(0,candidates,target,ans,new ArrayList<>());
-        return new ArrayList<>(ans);
+        return ans;
     }
 
-    private void fnc(int ind,int[] arr,int target,HashSet<List<Integer>> ans,List<Integer> ds){
+    private void fnc(int ind,int[] arr,int target,List<List<Integer>> ans,List<Integer> ds){
         
         if(target==0){ 
             ans.add(new ArrayList<>(ds));
