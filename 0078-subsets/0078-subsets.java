@@ -1,15 +1,18 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        int n=nums.length;
-        int subsets=1<<n;
         List<List<Integer>> ans=new ArrayList<>();
-        for(int num=0;num<=subsets-1;num++){
-            List<Integer> list=new ArrayList<>();
-            for(int i=0;i<n;i++){
-                if((num & (1<<i)) !=0) list.add(nums[i]);
-            }
-            ans.add(list);
-        }
+        fnc(0,nums,new ArrayList<>(),ans);
         return ans;
+    }
+
+    private void fnc(int ind,int[] nums,List<Integer> ds,List<List<Integer>> ans){
+        if(ind==nums.length){
+            ans.add(new ArrayList<>(ds));
+            return;
+        }
+        ds.add(nums[ind]);
+        fnc(ind+1,nums,ds,ans);
+        ds.remove(ds.size()-1);
+        fnc(ind+1,nums,ds,ans);
     }
 }
