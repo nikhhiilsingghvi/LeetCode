@@ -1,16 +1,16 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        HashSet<List<Integer>> ans=new HashSet<>();
+        List<List<Integer>> ans=new ArrayList<>();
         fnc(0,nums,new ArrayList<>(),ans);
-        return new ArrayList<>(ans);
+        return ans;
     }
 
-    private void fnc(int ind,int[] nums,List<Integer> ds,HashSet<List<Integer>> ans){
+    private void fnc(int ind,int[] nums,List<Integer> ds,List<List<Integer>> ans){
         ans.add(new ArrayList<>(ds));
     
         for(int i=ind;i<nums.length;i++){
-            if(i > ind && nums[i]==nums[ind])
+            if(i > ind && nums[i]==nums[i-1])
             continue;
             ds.add(nums[i]);
             fnc(i+1,nums,ds,ans);
