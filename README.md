@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhiljainnnn/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/nikhiljainnnn/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nikhiljainnnn/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/nikhiljainnnn/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/nikhiljainnnn/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nikhiljainnnn/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhiljainnnn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/nikhiljainnnn/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nikhiljainnnn/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhiljainnnn/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nikhiljainnnn/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0090-subsets-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nikhiljainnnn/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/nikhiljainnnn/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nikhiljainnnn/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nikhiljainnnn/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nikhiljainnnn/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -250,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/nikhiljainnnn/LeetCode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/nikhiljainnnn/LeetCode/tree/master/0460-lfu-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nikhiljainnnn/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
