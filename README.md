@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/nikhiljainnnn/LeetCode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/nikhiljainnnn/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/nikhiljainnnn/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/nikhiljainnnn/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0619-biggest-single-number](https://github.com/nikhiljainnnn/LeetCode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/nikhiljainnnn/LeetCode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/nikhiljainnnn/LeetCode/tree/master/1045-customers-who-bought-all-products) |
