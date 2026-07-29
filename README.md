@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/nikhiljainnnn/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/nikhiljainnnn/LeetCode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/nikhiljainnnn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/nikhiljainnnn/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhiljainnnn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/nikhiljainnnn/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/nikhiljainnnn/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/nikhiljainnnn/LeetCode/tree/master/0322-coin-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/nikhiljainnnn/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Sliding Window
 |  |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nikhiljainnnn/LeetCode/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nikhiljainnnn/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
