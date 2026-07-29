@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/nikhiljainnnn/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/nikhiljainnnn/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/nikhiljainnnn/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/nikhiljainnnn/LeetCode/tree/master/0322-coin-change) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nikhiljainnnn/LeetCode/tree/master/0322-coin-change) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nikhiljainnnn/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
