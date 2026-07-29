@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nikhiljainnnn/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/nikhiljainnnn/LeetCode/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nikhiljainnnn/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nikhiljainnnn/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/nikhiljainnnn/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/nikhiljainnnn/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nikhiljainnnn/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikhiljainnnn/LeetCode/tree/master/0079-word-search) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nikhiljainnnn/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikhiljainnnn/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/nikhiljainnnn/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/nikhiljainnnn/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/nikhiljainnnn/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/nikhiljainnnn/LeetCode/tree/master/0322-coin-change) |
