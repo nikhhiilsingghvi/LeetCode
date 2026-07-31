@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nikhiljainnnn/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/nikhiljainnnn/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0282-expression-add-operators](https://github.com/nikhiljainnnn/LeetCode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/nikhiljainnnn/LeetCode/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nikhiljainnnn/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nikhiljainnnn/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/nikhiljainnnn/LeetCode/tree/master/0204-count-primes) |
+| [0282-expression-add-operators](https://github.com/nikhiljainnnn/LeetCode/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/nikhiljainnnn/LeetCode/tree/master/1922-count-good-numbers) |
 ## Greedy
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nikhiljainnnn/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/nikhiljainnnn/LeetCode/tree/master/0282-expression-add-operators) |
 ## Enumeration
 |  |
 | ------- |
