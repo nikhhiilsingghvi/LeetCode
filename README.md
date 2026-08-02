@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nikhiljainnnn/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/nikhiljainnnn/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/nikhiljainnnn/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/nikhiljainnnn/LeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhiljainnnn/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nikhiljainnnn/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Database
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nikhiljainnnn/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/nikhiljainnnn/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0860-lemonade-change](https://github.com/nikhiljainnnn/LeetCode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/nikhiljainnnn/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhiljainnnn/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1901-find-a-peak-element-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/1901-find-a-peak-element-ii) |
