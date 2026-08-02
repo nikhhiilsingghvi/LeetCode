@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikhiljainnnn/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/nikhiljainnnn/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/nikhiljainnnn/LeetCode/tree/master/0455-assign-cookies) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nikhiljainnnn/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nikhiljainnnn/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/nikhiljainnnn/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/nikhiljainnnn/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nikhiljainnnn/LeetCode/tree/master/0066-plus-one) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nikhiljainnnn/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikhiljainnnn/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nikhiljainnnn/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/nikhiljainnnn/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/nikhiljainnnn/LeetCode/tree/master/0131-palindrome-partitioning) |
