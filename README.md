@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nikhiljainnnn/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/nikhiljainnnn/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/nikhiljainnnn/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/nikhiljainnnn/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/nikhiljainnnn/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/nikhiljainnnn/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikhiljainnnn/LeetCode/tree/master/0079-word-search) |
